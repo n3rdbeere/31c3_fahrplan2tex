@@ -1,4 +1,4 @@
-# Create Herald Cards for the Chaos Communication Camp 2015
+# Create Herald Cards for the Chaos Communication Congress 2014
 
 This Parser creates Cards using the Data of the Fahrplan
 
