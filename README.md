@@ -16,8 +16,7 @@ It also uses LaTeX, only core packages are needed here.
 
 ## Usage
 
-put the files given in this repository: https://github.com/n3rdbeere/cccamp_herald_card in the directory and then run the parser.
+clone the repository and hit `perl fahrplan2tex.pl`
 
-It will create a pdf named as the event-ID of each event in the directory.
+It will create a pdf named as the event-ID of each event in a directory named after the version of the schedule.
 
-# 31c3_fahrplan2tex
