@@ -84,17 +84,6 @@ sub clean_special_chars{
   return $string;
 }
 
-#sub clean_special_chars {
-#  my $string = shift;
-#  $string =~ s/\&/\\\&/g;
-#  $string =~ s/\$/\\\$/g;
-#  $string =~ s/\_//g;
-#  $string =~ s/\#/\\\#/g;
-#  $string =~ s/\^\w*//g;
-#  return $string;
-#}
-
-
 sub make_latex {
   my %event_props;
   foreach my $event (@event_list) {
